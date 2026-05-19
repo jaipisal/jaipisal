@@ -7,17 +7,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=JAI%20PISAL&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Code%20Alchemist%20%7C%20Full%20Stack%20Dev%20%7C%20Linux%20Power%20User&descAlignY=60&descSize=20&descColor=a78bfa" width="100%"/>
 
 <!-- TYPING SVG ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=3000&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&width=750&lines=Code+Alchemist+%26+Digital+Craftsman;Full+Stack+Dev+%7C+4%2B+yrs+Linux;Cybersecurity;Caffeine+%2B+Logic+%3D+High+Performance;Currently+working+on+QRScanDine;Open+to+Collabs+%26+Crazy+Ideas!" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=3000&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&width=750&lines=🚀+Code+Alchemist+%26+Digital+Craftsman;💻+Full+Stack+Dev+%7C+4%2B+yrs+Linux+Wizardry;🔐+Cybersecurity+Advocate;☕+Caffeine+%2B+Logic+%3D+High-Performance+Code;🌱+Currently+Hacking+on+QRScanDine;🤝+Open+to+Collabs+%26+Crazy+Ideas!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=3000&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&width=750&lines=Code+Alchemist+%26+Digital+Craftsman;Full+Stack+Dev+%7C+4%2B+yrs+Linux;Cybersecurity+Advocate;Caffeine+%2B+Logic+%3D+High+Performance;Currently+working+on+QRScanDine;Open+to+Collabs+%26+Crazy+Ideas!" alt="Typing SVG" />
 
 <br/>
 
 <!-- BADGES ROW -->
-<img src="https://komarev.com/ghpvc/?username=jaipisal&label=👁️ Profile+Views&color=7c3aed&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=jaipisal&label=Profile+Views&color=7c3aed&style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/jaipisal?label=🤝+Followers&style=for-the-badge&color=0ea5e9&labelColor=0f172a" />
+<img src="https://img.shields.io/github/followers/jaipisal?label=Followers&style=for-the-badge&color=0ea5e9&labelColor=0f172a" />
 &nbsp;
-<img src="https://img.shields.io/badge/🇮🇳 Based%20In-India-ff9933?style=for-the-badge&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/Based_In-India-ff9933?style=for-the-badge&labelColor=0f172a" />
+
+<br/>
 
 </div>
 
