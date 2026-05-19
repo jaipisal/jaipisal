@@ -30,40 +30,33 @@
 <!--                     ABOUT ME TERMINAL                      -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding GIF" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-```bash
-┌──(jaipisal㉿localhost)-[~]
-└─$ cat about_me.yaml
-```
+<h2>⚡ JAI PISAL &nbsp;—&nbsp; Code Alchemist</h2>
 
-```yaml
-profile:
-  name       : "Jai Pisal"
-  alias      : "Code Alchemist ⚗️"
-  role       : "Full Stack Developer"
-  speciality : "Web Dev + Cybersecurity 🔐"
-  os         : "Linux — 4+ years 🐧"
-  location   : "India 🇮🇳"
+![](https://img.shields.io/badge/⚗️_Role-Full_Stack_Developer-7c3aed?style=for-the-badge)
+![](https://img.shields.io/badge/🐧_OS-Linux_4%2B_Years-FCC624?style=for-the-badge&logoColor=black)
+![](https://img.shields.io/badge/🔐_Focus-Cybersecurity-ef4444?style=for-the-badge)
 
-currently:
-  building   : "QRScanDine 🍽️"
-  learning   : [".NET", "Node.js", "Ruby", "Rust 🦀"]
-  open_to    : "ATS Collaborations 🤝"
+<br/><br/>
 
-reach_me:
-  email      : "jaipisal111@gmail.com 📫"
-  ask_about  : ["React ⚛️", "Python 🐍", "PHP"]
+| 🚀 Currently Building | 📚 Currently Learning | 🤝 Open To |
+|:---:|:---:|:---:|
+| **QRScanDine** 🍽️ | `.NET` `Rust` `Ruby` `Node` | **ATS Collabs** |
 
-philosophy : "Turning caffeine & logic into high-performance code ☕💻"
-```
+<br/>
 
-```bash
-└─$ echo "Let's build something legendary 🚀"
-```
+![](https://img.shields.io/badge/📍_Location-India-ff9933?style=flat-square&labelColor=0f172a)
+&nbsp;
+![](https://img.shields.io/badge/📫_Mail-jaipisal111@gmail.com-0ea5e9?style=flat-square&labelColor=0f172a)
+&nbsp;
+![](https://img.shields.io/badge/💬_Ask_Me-React_·_Python_·_PHP-22c55e?style=flat-square&labelColor=0f172a)
+
+<br/>
+
+> ### ☕ *"Caffeine + Logic = High-Performance Code"*
 
 <br clear="right"/>
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -71,12 +64,6 @@ philosophy : "Turning caffeine & logic into high-performance code ☕💻"
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## ⚔️ My Arsenal — Languages & Tools
-
-<div align="center">
-
-> *Hover each icon — they're all clickable. Grouped by domain.*
-
-</div>
 
 ### 🌐 Frontend & UI
 
@@ -150,12 +137,9 @@ philosophy : "Turning caffeine & logic into high-performance code ☕💻"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jaipisal&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=a78bfa&icon_color=6ee7f7&text_color=ffffff" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=jaipisal&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=7c3aed&fire=f97316&currStreakLabel=a78bfa" />
 
 <br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaipisal&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" />
 
 </div>
 
@@ -186,8 +170,6 @@ philosophy : "Turning caffeine & logic into high-performance code ☕💻"
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaipisal/jaipisal/output/github-contribution-grid-snake.svg" />
   <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/jaipisal/jaipisal/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-> 🔧 **Setup:** Add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to generate this snake from your contributions graph.
 
 </div>
 
