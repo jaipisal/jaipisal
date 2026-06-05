@@ -14,8 +14,6 @@
 <!-- BADGES ROW -->
 <img src="https://komarev.com/ghpvc/?username=jaipisal&label=Profile+Views&color=7c3aed&style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/jaipisal?label=Followers&style=for-the-badge&color=0ea5e9&labelColor=0f172a" />
-&nbsp;
 <img src="https://img.shields.io/badge/Based_In-India-ff9933?style=for-the-badge&labelColor=0f172a" />
 
 <br/>
